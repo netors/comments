@@ -394,7 +394,7 @@ msgstr "Publicar"
 #: /views/elements/comments/threaded/item.ctp:24
 #: /views/elements/comments/tree/item.ctp:24
 msgid "Unpublish"
-msgstr "No Puplicar"
+msgstr "No Publicar"
 
 #: /views/elements/comments/flat/item.ctp:37
 #: /views/elements/comments/threaded/item.ctp:37
